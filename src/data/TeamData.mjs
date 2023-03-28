@@ -458,10 +458,10 @@ export default {
 			}
 		]
 	},
-	SuperCoder79: {
+	Jasmine: {
 		name: "Jasmine",
-		discord: "SuperCoder79",
-		github: "SuperCoder7979",
+		discord: "Jasmine",
+		github: "jaskarth",
 		avatar: "https://avatars.githubusercontent.com/u/25208576",
 		description: "Minecraft modder and Java reverse engineer.",
 		links: [
